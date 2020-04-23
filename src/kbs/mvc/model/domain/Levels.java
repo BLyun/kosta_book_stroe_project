@@ -1,6 +1,7 @@
 package kbs.mvc.model.domain;
 
 public class Levels {
+<<<<<<< HEAD
 	private int levels;
 	private int discount;
 	private int min;
@@ -44,4 +45,7 @@ public class Levels {
 	
 	
 	
+=======
+
+>>>>>>> branch 'master' of https://github.com/BLyun/kosta_book_stroe_project.git
 }
