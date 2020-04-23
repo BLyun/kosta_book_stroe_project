@@ -1,5 +1,5 @@
 package kbs.mvc.model.domain;
 
-public class Level {
+public class Levels {
 
 }
